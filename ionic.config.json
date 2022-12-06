@@ -1,0 +1,7 @@
+{
+  "name": "WNRS",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
