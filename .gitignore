@@ -5,3 +5,4 @@ node_modules
 /images
 /src/pages/JSON
 /Assets.xcassets
+.DS_store
