@@ -1,0 +1,7 @@
+ios
+/build
+package-lock.json
+node_modules
+/images
+/src/pages/JSON
+/Assets.xcassets
