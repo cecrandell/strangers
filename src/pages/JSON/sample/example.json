@@ -1,0 +1,32 @@
+[
+  {
+    "text_color": "text-color-red",
+    "card_color": "card-color-white",
+    "card_content": "ANXIOUS?",
+    "level": "",
+    "level_name": "SWIPE TO GET STARTED",
+    "card_type": "launch card",
+    "pack_type": "",
+    "deck": "example"
+  },
+  {
+    "text_color": "text-color-red",
+    "card_color": "card-color-white",
+    "card_content": "WHAT ARE YOUR ANXIETY TRIGGERS? WHAT ARE THEY TRYING TO TELL YOU?",
+    "level": "",
+    "level_name": "",
+    "card_type": "question",
+    "pack_type": "",
+    "deck": "example"
+  },
+  {
+    "text_color": "text-color-red",
+    "card_color": "card-color-white",
+    "card_content": "HOW HAS YOUR ANXIETY BEEN HOLDING YOU BACK LATELY?",
+    "level": "",
+    "level_name": "",
+    "card_type": "question",
+    "pack_type": "",
+    "deck": "example"
+  }
+]

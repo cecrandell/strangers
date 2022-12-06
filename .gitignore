@@ -3,6 +3,6 @@ ios
 package-lock.json
 node_modules
 /images
-/src/pages/JSON
+/src/pages/JSON/wnrs
 /Assets.xcassets
 .DS_store
