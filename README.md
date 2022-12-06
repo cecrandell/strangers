@@ -75,7 +75,7 @@ To open in Xcode, run:
 ionic cap open ios
 ```
 
-Once you are in Xcode, you will need to configure your Apple ID as your Team and change your Bundle Identifier from `io.ionic.starter` to `io.ionic.<your-first-name>` (see screenshot below for an example):
+Once you are in Xcode, you will need to configure your Apple ID as your Team and change your Bundle Identifier from `io.ionic.starter` to `io.ionic.<app-name>` (see screenshot below for an example):
 
 ![xcode](support/xcode.png)
 
