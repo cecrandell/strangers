@@ -1,8 +1,8 @@
 [
   {
-    "text_color": "text-color-red",
-    "card_color": "card-color-white",
-    "card_content": "ANXIOUS?",
+    "text_color": "text-color-white",
+    "card_color": "card-color-red",
+    "card_content": "A PURPOSE DRIVEN CARD GAME THAT ALLOWS YOU TO CREATE A MEANINGFUL CONNECTION WITH ANYBODY. READY?",
     "level": "",
     "level_name": "SWIPE TO GET STARTED",
     "card_type": "launch card",
@@ -10,23 +10,43 @@
     "deck": "example"
   },
   {
-    "text_color": "text-color-red",
-    "card_color": "card-color-white",
-    "card_content": "WHAT ARE YOUR ANXIETY TRIGGERS? WHAT ARE THEY TRYING TO TELL YOU?",
-    "level": "",
-    "level_name": "",
-    "card_type": "question",
-    "pack_type": "",
+    "text_color": "text-color-white",
+    "card_color": "card-color-red",
+    "card_content": "WILDCARD: MAINTAIN EYE CONTACT FOR THIRTY SECONDS. WHAT DID YOU NOTICE?",
+    "level": "1",
+    "level_name": "perception",
+    "card_type": "wildcard",
+    "pack_type": "expansion pack",
     "deck": "example"
   },
   {
     "text_color": "text-color-red",
     "card_color": "card-color-white",
-    "card_content": "HOW HAS YOUR ANXIETY BEEN HOLDING YOU BACK LATELY?",
-    "level": "",
-    "level_name": "",
+    "card_content": "WHAT'S THE MOST PAIN YOU'VE EVER BEEN IN THAT WASN'T PHYSICAL?",
+    "level": "2",
+    "level_name": "connection",
     "card_type": "question",
     "pack_type": "",
+    "deck": "example"
+  },
+  {
+    "text_color": "text-color-white",
+    "card_color": "card-color-red",
+    "card_content": "WILDCARD: GIVE YOUR PARTNER A HUG. NOT THE CRAPPY KIND. A WARM FLUFFY ONE.",
+    "level": "3",
+    "level_name": "reflection",
+    "card_type": "wildcard",
+    "pack_type": "expansion pack",
+    "deck": "example"
+  },
+  {
+    "text_color": "text-color-red",
+    "card_color": "card-color-white",
+    "card_content": "EACH PLAYER WRITE A MESSAGE TO THE OTHER. FOLD AND EXCHANGE. OPEN ONLY ONCE YOU TWO HAVE PARTED.",
+    "level": "",
+    "level_name": "final card",
+    "card_type": "final card",
+    "pack_type": "expansion pack",
     "deck": "example"
   }
 ]
