@@ -4,7 +4,7 @@
 
 The We're Not Really Strangers (WNRS) passion project is a mobile app built using the Ionic framework and React for the frontend. It came about because the creator is an avid fan of the card game [We're Not Really Strangers](https://www.werenotreallystrangers.com/) and wanted a portable way to play the game with her friends without carrying the physical decks with her all over New York City. The physical decks are growing in popularity in the US, however, they have yet to ship abroad in an affordable and timely manner. As the creator studied in the UK, she constantly needed to order games to her apartment in the US and then ship them separately to her friends all over Europe. This inspired her to create a mobile app with the intention to launch the app on app stores across the globe, to be played digitally and internationally.
 
-<!-- <video src='support/WNRS.mov' ></video> -->
+[![YouTube](https://img.youtube.com/vi/PGQVBS0QVBU/0.jpg)](https://youtu.be/PGQVBS0QVBU)
 
 Through this app, users are able to:
 
