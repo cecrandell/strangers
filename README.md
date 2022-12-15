@@ -4,7 +4,9 @@
 
 The We're Not Really Strangers (WNRS) passion project is a mobile app built using the Ionic framework and React for the frontend. It came about because the creator is an avid fan of the card game [We're Not Really Strangers](https://www.werenotreallystrangers.com/) and wanted a portable way to play the game with her friends without carrying the physical decks with her all over New York City. The physical decks are growing in popularity in the US, however, they have yet to ship abroad in an affordable and timely manner. As the creator studied in the UK, she constantly needed to order games to her apartment in the US and then ship them separately to her friends all over Europe. This inspired her to create a mobile app with the intention to launch the app on app stores across the globe, to be played digitally and internationally.
 
-[![YouTube](https://img.youtube.com/vi/PGQVBS0QVBU/0.jpg)](https://youtu.be/PGQVBS0QVBU)
+![WNRS.gif](support/WNRS.gif)
+
+Find the full demo here on [YouTube](https://img.youtube.com/vi/PGQVBS0QVBU/0.jpg).
 
 Through this app, users are able to:
 
@@ -23,13 +25,13 @@ Through this app, users are able to:
 - **src** - contains all of the functionality and design of the app
 - **support folder** - contains the media files for this `README` file
 - **capacitor.config.json** - contains high-level code for Capacitor tooling
-- **ionic.config.json** - contains code for global configuration 
+- **ionic.config.json** - contains code for global configuration
 - **package-lock.json** - (in the `.gitignore`) contains list of what dependencies are installed
 - **package.json** - contains instructions for what dependencies `npm` needs to install
 - **README** - this document, providing background information for the app
 - **tsconfig.json** - contains code for compiler options
 
-*For copyright reasons, I am unable to upload all files to this repository, as I do not own the WNRS content. As such, I have uploaded sample data instead.
+\*For copyright reasons, I am unable to upload all files to this repository, as I do not own the WNRS content. As such, I have uploaded sample data instead.
 
 **Step-by-Step on how to run the app (currently macOS only)**
 
