@@ -6,7 +6,7 @@ The We're Not Really Strangers (WNRS) passion project is a mobile app built usin
 
 ![WNRS.gif](support/WNRS.gif)
 
-Find the full demo here on [YouTube](https://img.youtube.com/vi/PGQVBS0QVBU/0.jpg).
+Find the full demo here on [YouTube](https://www.youtube.com/watch?v=prh2AlRaXaY).
 
 Through this app, users are able to:
 
